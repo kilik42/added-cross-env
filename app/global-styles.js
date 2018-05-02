@@ -19,7 +19,7 @@ injectGlobal`
   label{
     font-weight: normal !important;
   }
-  
+
   .uppercase{
       text-transform: uppercase;
   }
@@ -28,7 +28,7 @@ injectGlobal`
     height: 100px;
     width: 100px;
   }
-   
+
   .box{
     background: white;
     border: 1px solid white;
@@ -37,29 +37,29 @@ injectGlobal`
     margin-bottom: 20px;
     margin-top: 20px;
   }
-  
-  
-  
+
+
+
   .box-header{
     border-bottom:1px solid #ddd;
     padding: 10px 20px;
   }
-  
+
   .box-header .heading{
     text-transform: uppercase;
     font-size: 18px;
     font-weight: 400;
   }
-  
+
   .box-header .heading, .box-header .right-heading{
     margin-top:10px;
   }
-  
+
   .box-innerbody{
     padding: 20px;
     background: white;
   }
-  
+
   .roles-box{
     margin: 20px;
     padding: 20px;
@@ -67,7 +67,7 @@ injectGlobal`
     border: 1px solid #ddd;
   }
 
-  
+
   .btn-outline-primary{
     color: #4a99cb;
     background-color: transparent;
@@ -104,7 +104,6 @@ injectGlobal`
   }
 
   .lightblue{
-    background-color:#87cefa;
+    background-color:#91c63f;
   }
 `;
-  
